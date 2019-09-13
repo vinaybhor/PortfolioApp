@@ -10,7 +10,7 @@ To learn below points in Android-
 
 Download Apk:
 
-https://github.com/vinaybhor/PortfolioApp/blob/master/app/release/app-release.apk
+https://github.com/vinaybhor/PortfolioApp/blob/master/app/release/
 
 Screenshots :
 </br>
