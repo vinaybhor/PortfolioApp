@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="about_me">"Hi, My name is Vinay. "\n"I have been working as Android Developer at Reliance Jio Infocom LTD."</string>
+    <string name="skills">* JAVA "\n"* Android "\n"* MySQL "\n"</string>
+    <string name="work">* Portfolio app "\n"* TO DO List App "\n"</string>
+    <string name="contact">* Vinay Bhor "\n"* vinaybhor@gmail.com</string>
+    <string name="name">Vinay Bhor</string>
+    <string name="designation">Android Developer</string>
+</resources>
