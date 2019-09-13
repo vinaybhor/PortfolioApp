@@ -8,6 +8,10 @@ To learn below points in Android-
 2. CardView
 3. CoordinatorLayout
 
+Download Apk:
+
+https://github.com/vinaybhor/PortfolioApp/blob/master/app/release/app-release.apk
+
 Screenshots :
 </br>
 ![Capture1](https://user-images.githubusercontent.com/35927113/64872084-2954ae80-d664-11e9-9823-ec7244bd05d2.PNG)
